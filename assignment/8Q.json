@@ -1,0 +1,2 @@
+json ='[{"fruit":"apple"},{"size":"large"},{"color:"red"}]'
+echo "${jsonvariable}" | jq '.'
